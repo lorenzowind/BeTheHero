@@ -20,7 +20,7 @@ O projeto **Be The Hero** trata de um sistema para relato de casos específicos 
 
 ## 💻 Tecnologia utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [React.js](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
@@ -41,7 +41,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ cd backend
 
     # Instalar as dependências
-    $ yarn install
+    $ yarn
 
     # Rodar as migrations
     $ npx knex migrate:latest
@@ -53,7 +53,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ cd frontend
 
     # Instalar as dependências
-    $ yarn install
+    $ yarn
 
     # Iniciar o frontend
     $ yarn start
@@ -62,7 +62,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ cd mobile
 
     # Instalar as dependências
-    $ yarn install
+    $ yarn
 
     # Iniciar o mobile
     $ yarn start
